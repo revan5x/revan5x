@@ -2,7 +2,7 @@
 
 <!-- Add the GIF right under your greeting -->
 <p align="left">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" alt="Code Animation" width="450"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" alt="Code Animation" width="430"/>
 </p>
 
 <h3 align="left">CS Student | Aspiring Designer | India 🇮🇳</h3>
