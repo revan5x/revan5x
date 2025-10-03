@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" alt="Code Animation" width="450"/>
 </p>
 
-<h6 align="left">CS Student | Aspiring Designer | India 🇮🇳</h6>
+<h3 align="left">CS Student | Aspiring Designer | India 🇮🇳</h3>
 
 ---
 
