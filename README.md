@@ -1,5 +1,10 @@
 <h1 align="left">Hey 👋 I'm Revanth!</h1>
 
+<!-- Add the GIF right under your greeting -->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" alt="Code Animation" width="300"/>
+</p>
+
 <h6 align="left">CS Student | Aspiring Designer | India 🇮🇳</h6>
 
 ---
@@ -37,4 +42,3 @@
 - 💬 Ask me about web apps, design, or collabs  
 - 📫 Reach me at: [radioradiance4@gmail.com]  
 - 🌐 Portfolio / Projects: [https://www.behance.net/radianceradio]  
-
