@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/SQL-%23FFCA28.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Experimentation-%23007ACC.svg?style=for-the-badge" alt="Experimentation" />
-  <img src="https://img.shields.io/badge/DBT-%23FF6B6B.svg?style=for-the-badge&logo=dbt" alt="dbt" />
+  <img src="https://img.shields.io/badge/dbt-%23FF6B6B.svg?style=for-the-badge&logo=dbt" alt="dbt" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 ## Highlights
 
 <p align="center">
-  <strong>Onboarding experiment</strong> — <span style="font-weight:600">+18% trial→paid</span> (example) · <em>design + analysis + monitoring</em><br/>
+  <strong>Onboarding experiment</strong> — <span style="font-weight:600">+18% trial→paid</span> · <em>design + analysis + monitoring</em><br/>
   <strong>Retention pipeline</strong> — automated weekly cohorts & reports used by growth team
 </p>
 
@@ -29,8 +29,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-your.email%40example.com-red?style=for-the-badge&logo=gmail" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/<your-linkedin>" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="linkedin"/></a>
+  <a href="mailto:revanthreddy5551@gmail.com"><img src="https://img.shields.io/badge/Email-revanthreddy5551%40gmail.com-red?style=for-the-badge&logo=gmail" alt="email"/></a>
 </p>
 
-<p align="center"><small>Want a screenshot or repo links added here? Reply with 1–2 wins and any screenshot image URL and I’ll add them.</small></p>
+<p align="center"><small>Want repo links or a dashboard image added? Reply with the image URL or repo names and I’ll update this.</small></p>
