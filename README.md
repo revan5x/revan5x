@@ -18,7 +18,7 @@
 ## Highlights
 
 <p align="center">
-  <strong>Onboarding experiment</strong> — <span style="font-weight:600">+18% trial→paid</span> · <em>design + analysis + monitoring</em><br/>
+  <strong>Onboarding experiment</strong> — <span style="font-weight:600">Building projects around NLP, data analysis, dashboards, and user-focused applications</span> · <em>design + analysis + monitoring</em><br/>
   <strong>Retention pipeline</strong> — automated weekly cohorts & reports used by growth team
 </p>
 
