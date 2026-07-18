@@ -14,7 +14,6 @@
 ---
 
 ### 🛠️ Core Stack & Tools
-I use data to answer product questions, reduce churn, and measure feature success.
 
 *   **Querying & Modeling:** <img src="https://img.shields.io/badge/SQL-%23FFCA28.svg?style=flat-square&logo=postgresql&logoColor=black" alt="SQL" /> <img src="https://img.shields.io/badge/dbt-%23FF6B6B.svg?style=flat-square&logo=dbt" alt="dbt" />
 *   **Analysis & Scripting:** <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
@@ -24,13 +23,13 @@ I use data to answer product questions, reduce churn, and measure feature succes
 ---
 
 ### 🚀 Featured Case Studies
-*(Link your top 3 repositories here. Make sure the repo names are clear and click-driven)*
 
-| Project | Description | Business Impact |
+| Project Area | Product Analysis & Methodology | Business Impact |
 | :--- | :--- | :--- |
-| **[🛒 E-Commerce Checkout Funnel Optimization](#)** | SQL & Python analysis of user drop-off points in the payment flow. | Identified friction causing a 15% drop-off; proposed UX changes for A/B testing. |
-| **[📊 Subscription Retention Cohorts](#)** | Automated retention tracking and survival analysis using SQL and dbt. | Segmented "power users" to help the growth team target marketing spend. |
-| **[🧪 GenAI Feature A/B Test Evaluation](#)** | Experimentation analysis on a new LLM-driven search feature. | Achieved statistical significance showing a 9% increase in user activation. |
+| **[📄 B2B SaaS: Feature Adoption & Time-to-Value](https://github.com/revan5x/legal-doc-simply)** | Analyzed user workflows in a text-simplification tool to measure "time saved" as a core activation metric. | Mapped the document upload funnel, identifying friction points to propose UX changes that increase activation. |
+| **[🌱 Consumer App: Retention Cohorts & Engagement](https://github.com/revan5x/Ecoglow)** | Tracked user interactions within an eco-habit platform to define the behavioral "aha moment." | Built retention cohorts demonstrating how early feature engagement correlates with long-term user stickiness. |
+| **[📰 A/B Testing: Trust & Content Moderation Flags](https://github.com/revan5x/Fake-news-detector)** | Evaluated user behavior and session lengths in response to automated ML warning labels on a media platform. | Analyzed Click-Through Rates (CTR) and bounce rates to determine the impact of content flags on user trust. |
+| **[🔔 B2B Dashboard: Alert Fatigue & Notifications](https://github.com/revan5x/SURVILLENCE_SYS)** | Investigated email alert open rates and dashboard logins for an automated threat detection system targeting SMBs. | Recommended notification threshold adjustments to reduce false-positive "alert fatigue" and improve DAU. |
 
 ---
 
