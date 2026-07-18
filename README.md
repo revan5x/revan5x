@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Revanth Reddy — Product Analyst</h1>
+<h1 align="center"> I'm Revanth Reddy — Product Analyst</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" alt="hero" width="520"/>
