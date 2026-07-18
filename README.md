@@ -26,10 +26,10 @@
 
 | Project Area | Product Analysis & Methodology | Business Impact |
 | :--- | :--- | :--- |
-| **[📄 B2B SaaS: Feature Adoption & Time-to-Value](https://github.com/revan5x/legal-doc-simply)** | Analyzed user workflows in a text-simplification tool to measure "time saved" as a core activation metric. | Mapped the document upload funnel, identifying friction points to propose UX changes that increase activation. |
+| **[📄 B2B SaaS: Feature Adoption & Time-to-Value](https://github.com/revan5x/legal-doc-simply)** | Defined 3 target user segments and mapped theoretical workflows to design a targeted product experience. | Identified navigation friction points and monitored core metrics to ensure users reached Time-to-Value in under 2 seconds. |
 | **[🌱 Consumer App: Retention Cohorts & Engagement](https://github.com/revan5x/Ecoglow)** | Tracked user interactions within an eco-habit platform to define the behavioral "aha moment." | Built retention cohorts demonstrating how early feature engagement correlates with long-term user stickiness. |
-| **[📰 A/B Testing: Trust & Content Moderation Flags](https://github.com/revan5x/Fake-news-detector)** | Evaluated user behavior and session lengths in response to automated ML warning labels on a media platform. | Analyzed Click-Through Rates (CTR) and bounce rates to determine the impact of content flags on user trust. |
-| **[🔔 B2B Dashboard: Alert Fatigue & Notifications](https://github.com/revan5x/SURVILLENCE_SYS)** | Investigated email alert open rates and dashboard logins for an automated threat detection system targeting SMBs. | Recommended notification threshold adjustments to reduce false-positive "alert fatigue" and improve DAU. |
+| **[📰 A/B Testing: Trust & Content Moderation Flags](https://github.com/revan5x/Fake-news-detector)** | Analyzed 10,000+ records (NLP) to evaluate the UX impact of content warning flags on user behavior. | Tracked feature performance and visualized prediction confidence metrics to improve interpretability for end users. |
+| **[🔔 B2B Dashboard: Alert Fatigue & Notifications](https://github.com/revan5x/SURVILLENCE_SYS)** | Built an interactive dashboard tracking 50+ real-time events and queried SQL data for daily active engagement. | Evaluated alert notification effectiveness to reduce "alert fatigue" and optimize user workflow efficiency. |
 
 ---
 
