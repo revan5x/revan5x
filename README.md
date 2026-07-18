@@ -33,3 +33,8 @@
 
 ---
 
+---
+
+<p align="center">
+  <strong>Open to new Product Analytics opportunities.</strong><br>
+</p>
