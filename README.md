@@ -19,17 +19,13 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🟢%20OPEN%20TO-Product%20Analytics%20Roles-22C55E?style=for-the-badge" alt="Open to Product Analytics Roles"/>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
 - 📊 Product Analyst passionate about turning user behavior into product growth.
 - 📈 Experienced in **A/B Testing, Funnel Analysis, Retention, Cohort Analysis, and Product Metrics**.
-- 🛠️ Skilled in **SQL, Python, dbt, Tableau, Looker, Mixpanel, and Amplitude**.
+- 🛠️ Skilled in **SQL, Python,Tableau, Looker, Mixpanel, and Amplitude**.
 - 🎯 Interested in building data-informed products that improve user experience and business outcomes.
 - 🌱 Currently expanding my expertise in Product Strategy and Experimentation.
 
@@ -87,6 +83,13 @@
 - 📊 Dashboarding & Visualization
 
 ---
+
+<p align="center">
+  <a href="mailto:revanthreddy5551@gmail.com?subject=Product%20Analytics%20Opportunity">
+    <img src="https://img.shields.io/badge/🟢%20OPEN%20TO-Product%20Analytics%20Roles-22C55E?style=for-the-badge" alt="Open to Product Analytics Roles"/>
+  </a>
+</p>
+
 
 <p align="center">
   ⭐ Thanks for visiting my profile!
