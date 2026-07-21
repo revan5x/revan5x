@@ -27,6 +27,7 @@
 -  Interested in business analysis, product analytics, business intelligence, and process improvement.
 -  Currently learning Agile methodologies, stakeholder management, and advanced analytics.
 
+
 ## 🛠️ Skills
 
 <p align="center">
