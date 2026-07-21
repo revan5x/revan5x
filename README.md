@@ -48,10 +48,10 @@ Business Analyst | Product Analyst | SQL • Python • Data Analytics • Data 
 
 | Project | Key Contribution | Business Impact |
 |---------|------------------|-----------------|
-| **[📄 Legal Document Simplifier](https://github.com/revan5x/legal-doc-simply)** | Gathered business requirements, mapped user journeys, and proposed feature recommendations to simplify legal document workflows. | Improved usability through structured requirement analysis and workflow optimization. |
-| **[🌱 EcoGlow – Organic Waste Platform](https://github.com/revan5x/Ecoglow)** | Conducted market research, identified user needs, defined KPIs, and mapped end-to-end user journeys. | Recommended data-driven improvements to increase user engagement and feature adoption. |
-| **[📰 Fake News Detector](https://github.com/revan5x/Fake-news-detector)** | Analyzed user interaction patterns and designed dashboards to improve transparency in AI-assisted news classification. | Enhanced explainability through data visualization and actionable business insights. |
-| **[🔔 AI Surveillance System Dashboard](https://github.com/revan5x/SURVILLENCE_SYS)** | Analyzed operational data using SQL, tracked KPIs, and built interactive dashboards with Streamlit. | Improved operational visibility and enabled faster data-driven decision making. |
+| **[Legal Document Simplifier](https://github.com/revan5x/legal-doc-simply)** | Gathered business requirements, mapped user journeys, and proposed feature recommendations to simplify legal document workflows. | Improved usability through structured requirement analysis and workflow optimization. |
+| **[EcoGlow – Organic Waste Platform](https://github.com/revan5x/Ecoglow)** | Conducted market research, identified user needs, defined KPIs, and mapped end-to-end user journeys. | Recommended data-driven improvements to increase user engagement and feature adoption. |
+| **[Fake News Detector](https://github.com/revan5x/Fake-news-detector)** | Analyzed user interaction patterns and designed dashboards to improve transparency in AI-assisted news classification. | Enhanced explainability through data visualization and actionable business insights. |
+| **[AI Surveillance System Dashboard](https://github.com/revan5x/SURVILLENCE_SYS)** | Analyzed operational data using SQL, tracked KPIs, and built interactive dashboards with Streamlit. | Improved operational visibility and enabled faster data-driven decision making. |
 
 ## 📌 Areas of Interest
 
