@@ -49,17 +49,6 @@
 | **[Fake News Detector](https://github.com/revan5x/Fake-news-detector)** | Analyzed user interaction patterns and designed dashboards to improve transparency in AI-assisted news classification. | Enhanced explainability through data visualization and actionable business insights. |
 | **[AI Surveillance System Dashboard](https://github.com/revan5x/SURVILLENCE_SYS)** | Analyzed operational data using SQL, tracked KPIs, and built interactive dashboards with Streamlit. | Improved operational visibility and enabled faster data-driven decision making. |
 
-## 📌 Areas of Interest
-
-- Business Analysis
-- Product Analytics
-- Requirements Gathering & Process Mapping
-- KPI Tracking & Business Metrics
-- SQL & Data Analytics
-- Dashboard Development & Visualization
-- Process Improvement
-- Data-Driven Decision Making
-
 ---
 
 <p align="center">
