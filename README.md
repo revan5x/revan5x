@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Revanth Reddy</h1>
 
-<h3 align="center">
-Business Analyst | Product Analyst | SQL • Python • Data Analytics • Data Visualization
-</h3>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" alt="Hero Animation" width="520"/>
 </p>
@@ -55,14 +51,14 @@ Business Analyst | Product Analyst | SQL • Python • Data Analytics • Data 
 
 ## 📌 Areas of Interest
 
-- 📊 Business Analysis
-- 📈 Product Analytics
-- 📋 Requirements Gathering & Process Mapping
-- 📊 KPI Tracking & Business Metrics
-- 🔍 SQL & Data Analytics
-- 📊 Dashboard Development & Visualization
-- ⚙️ Process Improvement
-- 💡 Data-Driven Decision Making
+- Business Analysis
+- Product Analytics
+- Requirements Gathering & Process Mapping
+- KPI Tracking & Business Metrics
+- SQL & Data Analytics
+- Dashboard Development & Visualization
+- Process Improvement
+- Data-Driven Decision Making
 
 ---
 
