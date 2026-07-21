@@ -25,11 +25,11 @@ Business Analyst | Product Analyst | SQL • Python • Data Analytics • Data 
 
 ## 👨‍💻 About Me
 
-- 📊 Computer Science undergraduate passionate about Business Analysis, Product Analytics, and Business Intelligence.
-- 📈 Skilled in analyzing business problems and delivering actionable insights using SQL, Python, Excel, Tableau, and Streamlit.
-- 📌 Hands-on experience through academic projects in requirement gathering, process mapping, KPI tracking, user journey mapping, dashboard development, and business metrics.
-- 🚀 Interested in business analysis, product analytics, business intelligence, and process improvement.
-- 🌱 Currently learning Agile methodologies, stakeholder management, and advanced analytics.
+-  Computer Science undergraduate passionate about Business Analysis, Product Analytics, and Business Intelligence.
+-  Skilled in analyzing business problems and delivering actionable insights using SQL, Python, Excel, Tableau, and Streamlit.
+-  Hands-on experience through academic projects in requirement gathering, process mapping, KPI tracking, user journey mapping, dashboard development, and business metrics.
+-  Interested in business analysis, product analytics, business intelligence, and process improvement.
+-  Currently learning Agile methodologies, stakeholder management, and advanced analytics.
 
 ## 🛠️ Skills
 
