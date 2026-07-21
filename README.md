@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Revanth Reddy</h1>
 
-<h3 align="center">Product Analyst | SQL • Python • Product Analytics • Experimentation</h3>
+<h3 align="center">
+Business Analyst | Product Analyst | SQL • Python • Business Analytics • Data Visualization
+</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" alt="Hero Animation" width="520"/>
 </p>
 
 <p align="center">
-  <em>Translating user behavior into actionable product decisions through experimentation, funnel analysis, retention, and product metrics.</em>
+  <em>
+    Passionate about transforming business problems into data-driven insights through analytics, process improvement, and data visualization.
+  </em>
 </p>
 
 <p align="center">
@@ -19,78 +23,59 @@
   </a>
 </p>
 
----
-
 ## 👨‍💻 About Me
 
-- 📊 Product Analyst passionate about turning user behavior into product growth.
-- 📈 Experienced in **A/B Testing, Funnel Analysis, Retention, Cohort Analysis, and Product Metrics**.
-- 🛠️ Skilled in **SQL, Python,Tableau, Looker, Mixpanel, and Amplitude**.
-- 🎯 Interested in building data-informed products that improve user experience and business outcomes.
-- 🌱 Currently expanding my expertise in Product Strategy and Experimentation.
+- 📊 Computer Science undergraduate passionate about Business Analysis, Product Analytics, and data-driven decision making.
+- 📈 Skilled in analyzing business problems and translating data into actionable insights using SQL, Python, Excel, Tableau, and Streamlit.
+- 📌 Experienced through academic projects in requirement gathering, process mapping, KPI tracking, user journey mapping, dashboard development, and business metrics.
+- 🚀 Interested in business analysis, product analytics, business intelligence, and process improvement.
+- 🌱 Currently learning Agile methodologies, stakeholder management, and advanced analytics.
+## 🛠️ Core Skills & Tools
 
----
+## 🛠️ Skills
 
-## 🛠️ Core Stack & Tools
-
-### Querying & Data Modeling
-<p>
-  <img src="https://img.shields.io/badge/SQL-FFCA28?style=flat-square&logo=postgresql&logoColor=black"/>
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Business%20Analysis-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Product%20Analytics-E91E63?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-FFCA28?style=for-the-badge&logo=postgresql&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agile-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Requirements%20Gathering-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/KPI%20Tracking-8E24AA?style=for-the-badge"/>
 </p>
 
-### Analysis & Scripting
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-</p>
+## 🚀 Featured Business & Product Analytics Projects
 
-### Product Analytics
-<p>
-  <img src="https://img.shields.io/badge/Amplitude-2442FE?style=flat-square&logo=amplitude&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mixpanel-4D3CFA?style=flat-square&logo=mixpanel&logoColor=white"/>
-</p>
+| Project | Analysis | Impact |
+|---------|----------|--------|
+| **[📄 Legal Document Simplifier](https://github.com/revan5x/legal-doc-simply)** | Gathered requirements, mapped user journeys, and documented feature recommendations to simplify legal document workflows. | Improved usability through structured requirements analysis and workflow optimization. |
+| **[🌱 EcoGlow – Organic Waste Platform](https://github.com/revan5x/Ecoglow)** | Conducted market research, analyzed user needs, defined KPIs, and mapped end-to-end user journeys. | Recommended data-driven improvements to increase user engagement and feature adoption. |
+| **[📰 Fake News Detector](https://github.com/revan5x/Fake-news-detector)** | Analyzed user interactions and built dashboards to improve transparency in AI-assisted news classification. | Enhanced explainability through data visualization and actionable insights. |
+| **[🔔 AI Surveillance System Dashboard](https://github.com/revan5x/SURVILLENCE_SYS)** | Queried event data using SQL, tracked operational KPIs, and developed interactive Streamlit dashboards. | Improved operational visibility and supported faster, data-driven decision making. |
 
-### BI & Visualization
-<p>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=google&logoColor=white"/>
-</p>
+## 📈 Areas of Interest
 
----
-
-## 🚀 Featured Product Analytics Case Studies
-
-| Project | Product Analysis | Business Impact |
-|---------|------------------|-----------------|
-| **[📄 B2B SaaS: Feature Adoption & Time-to-Value](https://github.com/revan5x/legal-doc-simply)** | Designed user segmentation, mapped feature adoption journeys, and analyzed onboarding behavior to identify friction before activation. | Highlighted navigation bottlenecks and optimized the path to faster Time-to-Value. |
-| **[🌱 Consumer App: Retention Cohorts & Engagement](https://github.com/revan5x/Ecoglow)** | Performed cohort and retention analysis to identify the product's "aha moment" and measure engagement over time. | Demonstrated how early feature engagement increased long-term retention and user stickiness. |
-| **[📰 A/B Testing: Trust & Content Moderation](https://github.com/revan5x/Fake-news-detector)** | Evaluated user interactions with trust indicators using NLP-powered predictions and product metrics. | Improved content interpretability by visualizing prediction confidence and measuring feature effectiveness. |
-| **[🔔 B2B Dashboard: Alert Fatigue & Notifications](https://github.com/revan5x/SURVILLENCE_SYS)** | Built dashboards tracking 50+ real-time events using SQL to monitor user engagement and notification usage. | Identified opportunities to reduce alert fatigue and improve workflow efficiency. |
-
----
-
-## 📈 Product Analytics Focus
-
-- 📊 Product Metrics
-- 🔍 Funnel Analysis
-- 🧪 A/B Testing
-- 👥 Cohort & Retention Analysis
-- 📉 Churn Analysis
-- 📈 North Star Metrics
-- 🎯 User Segmentation
-- 📱 Product Strategy
-- 📊 Dashboarding & Visualization
+- 📊 Business Analysis
+- 📈 Product Analytics
+- 📋 Requirements & Process Mapping
+- 📊 KPI Tracking & Business Metrics
+- 🔍 SQL & Data Analytics
+- 📈 Dashboard Development
+- ⚙️ Process Improvement
+- 💡 Data-Driven Decision Making
 
 ---
 
 <p align="center">
-  <a href="mailto:revanthreddy5551@gmail.com?subject=Product%20Analytics%20Opportunity">
-    <img src="https://img.shields.io/badge/🟢%20OPEN%20TO-Product%20Analytics%20Roles-22C55E?style=for-the-badge" alt="Open to Product Analytics Roles"/>
+  <a href="mailto:revanthreddy5551@gmail.com?subject=Business%20Analyst%20or%20Product%20Analyst%20Opportunity">
+    <img src="https://img.shields.io/badge/🟢%20OPEN%20TO-Business%20Analyst%20%7C%20Product%20Analyst%20Internships-22C55E?style=for-the-badge" alt="Open to Business Analyst & Product Analyst Internships"/>
   </a>
 </p>
 
-
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  📊 Passionate about solving business problems through data, analytics, and continuous improvement.<br>
+  Thanks for visiting my profile — let's connect!
 </p>
