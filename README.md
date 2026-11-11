@@ -23,14 +23,9 @@ Building AI-Enabled Business Solutions Through Business Analysis & Process Impro
   </a>
 </p>
 
-## 👨‍💻 About Me
+##👨‍💻 About Me
 
-- Computer Science undergraduate focused on building a career in Business Analysis.
-- Skilled in translating business needs into practical solutions through requirements engineering, process improvement, SQL, Python, Excel, Tableau, and data analytics.
-- Hands-on experience in business requirements analysis, stakeholder collaboration, process modeling, user journey mapping, KPI analysis, dashboard development, and business documentation through real-world projects.
-- Passionate about AI-enabled Business Analysis, business process optimization, digital transformation, and data-driven decision making.
-- Currently expanding expertise in Agile delivery, stakeholder management, business process modeling (BPM), and AI-assisted business analysis.
-
+Fascinated by the intersection of business, technology, and analytical thinking, and how they shape meaningful solutions to complex challenges. Passionate about understanding business processes, exploring new ideas, and driving continuous improvement.
 ## 🛠️ Core Skills
 
 <p align="center">
