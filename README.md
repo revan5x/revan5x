@@ -36,15 +36,7 @@ Building AI-Enabled Business Solutions Through Business Analysis & Process Impro
 <p align="center">
   <img src="https://img.shields.io/badge/Business%20Analysis-0A66C2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Requirements%20Engineering-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Stakeholder%20Management-5E35B1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Business%20Process%20Modeling-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Process%20Improvement-43A047?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/KPI%20Analysis-8E24AA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20for%20Business-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SQL-FFCA28?style=for-the-badge&logo=postgresql&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 ## 🚀 Featured Business Analysis Projects
 
